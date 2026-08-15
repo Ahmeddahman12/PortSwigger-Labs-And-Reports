@@ -9,3 +9,5 @@ My PortSwigger Web Security Academy labs and vulnerability reports.
 
 ---
 **Prepared by:** Ahmed Dahman Saleh
+
+| **[DOM XSS Technical Report](DOM%20XSS.pdf)** | Documentation of 4 practical XSS labs (DOM, Reflected, and Stored)[cite: 3]. |
